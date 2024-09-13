@@ -7,7 +7,6 @@ Welcome to my personal Unity3D project repository! Here, I will be uploading var
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
